@@ -1,4 +1,4 @@
-# rm_wind-fitsin
+# rm_wind_fitsin
 RoboMater机甲大师 能量机关拟合转速
 
 这是本人在RoboMaster22赛季的作品，用于拟合计算大风车的转速。测试效果良好。
